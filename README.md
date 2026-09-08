@@ -8,7 +8,7 @@ fxlz4 compresses and decompresses files under `--allow` using the official **LZ4
 |--|--|
 | **Requires** | [fx](https://github.com/ledocorp/fxlang) **0.9.6+** (with `--cli`) |
 | **Platforms** | Windows + Linux **x86_64** |
-| **License** | Apache-2.0 (tool) · BSD-2-Clause (lz4) |
+| **License** | GPL-3.0 (tool) · BSD-2-Clause (lz4) |
 | **Org** | [LedoCorp](http://www.ledocorp.org) |
 
 ## Install (release binaries)
@@ -82,4 +82,4 @@ zstd · dictionaries · streaming circus · legacy LZ4 block frame · macOS preb
 
 ## License
 
-Copyright Shawn Londono · LedoCorp · Apache-2.0 — see [LICENSE](LICENSE).
+Copyright Shawn Londono · LedoCorp · GPL-3.0 — see [LICENSE](LICENSE).
